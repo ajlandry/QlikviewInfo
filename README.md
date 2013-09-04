@@ -1,4 +1,4 @@
-QlikiviewInfo
+QlikviewInfo
 =============
 
 Useful Qlikview Tips &amp; Tricks
